@@ -1,0 +1,47 @@
+{
+    "project_name": "plainTesting",
+    "version": "1.0.0",
+    "project_id": "{0DEAF9B1-2F5A-4F83-8FA3-7F28D933914D}",
+    "origin": "The primary repo for plainTesting goes here: i.e. http://www.mydomain.com",
+    "license": "What license plainTesting uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "plainTesting",
+    "summary": "A short description of plainTesting.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "plainTesting"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "plainTesting",
+    "gem_names": [
+        "AWSCore",
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EMotionFX",
+        "EditorPythonBindings",
+        "FirstPersonController==1.0.0",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrefabBuilder",
+        "PrimitiveAssets",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox",
+        "plainTesting"
+    ],
+    "engine_version": "2.2.2"
+}

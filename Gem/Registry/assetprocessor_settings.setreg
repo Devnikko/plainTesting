@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder plainTesting/Assets": {
+                    "watch": "@GEMROOT:plainTesting@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder plainTesting/Registry": {
+                    "watch": "@GEMROOT:plainTesting@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
